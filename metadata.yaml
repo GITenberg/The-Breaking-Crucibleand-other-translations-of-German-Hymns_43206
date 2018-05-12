@@ -14,6 +14,8 @@ covers:
 - cover_type: archival
   image_path: 43206-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43206#The-Breaking-Crucibleand-other-translations-of-German-Hymns
 gutenberg_issued: '2013-07-13'
 gutenberg_type: Text
 identifiers:
